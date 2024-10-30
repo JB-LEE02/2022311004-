@@ -1,4 +1,4 @@
-# 2022311004-Leejaebeen
+# 20020419-Leejaebeen
 Homework
 ### 제어공학 5주차 내용정리
 시스템을 수식화 할 때 state를 정의하여 state 중심으로 문제를 해결하는데 초점을 둠.  
